@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MilanRanaweera&color=blue)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&width=435&lines=Computer+Science+Student;Aspiring+Software+Engineer;Learning+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&width=435&lines=Computer+Science+Student;Aspiring+Software+Engineer;Learning+Machine+Learning)]
 
 ## About Me
 
