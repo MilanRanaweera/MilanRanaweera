@@ -6,7 +6,6 @@
 
 ## About Me
 
-- 🎓 Computer Science student at the University of Westminster.
 - 💼 Aspiring Software Engineer.
 - 🎮 Hobbies: Coding, Gaming, and Reading.
 
